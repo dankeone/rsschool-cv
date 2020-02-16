@@ -5,7 +5,7 @@ Place of residence: **Minsk**.
 
 Place of study: **BNTU**, **FITR**.
 
-My mail: **sg10110000@gmail.com**.
+My email: **sg10110000@gmail.com**.
 
 # Summary
 My chief goal is  get a job as a JavaScript developer and in the near future become full-stack web developer. I'm ready for continuous learning, quickly learn information and accept information in large volumes.
