@@ -1,0 +1,20 @@
+.container{
+	margin: 0 auto;
+	max-width: 1024px;
+}
+
+.summary{
+	max-width: 512px;
+	flex: none;
+}
+
+
+.photo{
+	max-width: 200px;
+	float: left;
+	margin-right: 5px;
+}
+
+.person-info{
+	height: 200px;
+}
